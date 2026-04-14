@@ -138,15 +138,6 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
-
-* Hyperparameter tuning (Optuna)
-* Deployment on AWS / Render
-* Add REST API (Flask/FastAPI)
-* Incorporate additional features (location, brand reputation)
-
----
-
 ## 🧠 Key Learnings
 
 * Feature engineering significantly improves performance
